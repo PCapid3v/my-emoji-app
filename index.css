@@ -5,7 +5,7 @@ html {
 
 body {
     padding: 10px;
-    background-image: linear-gradient(#5DA4D9, #FFF);
+    background-image: linear-gradient(#51a9ec, rgb(133, 75, 75));
 }
 
 #emoji-container {
